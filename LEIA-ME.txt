@@ -1,0 +1,3 @@
+Eu enviei um e-mail para o senhor no dia 5 à tarde perguntando sobre a parte dos testes unitários em python e não houve resposta, então achei melhor apenas enviar.
+
+Ao executar o main.py, será criado algumas páginas HTML na pasta para o senhor checar os resultados do código.
